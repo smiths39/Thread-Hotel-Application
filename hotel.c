@@ -1,14 +1,3 @@
-/* 
-    Student name:   Sean Smith
-    Student ID:     10339513
-    
-    Student name:   Feargal Karney
-    Student ID:     10362551
-    
-    Student name:   Jonathan Murphy 
-    Student ID:     10352155
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
